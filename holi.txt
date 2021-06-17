@@ -1,0 +1,2 @@
+This is a git test to understant
+how to rename branches locally and remotelly
